@@ -1,6 +1,6 @@
-# SWTP-1 KI OCR 
+# Document based OCR solution
 
-Extension of the feedback system of the THM
+A solution to automaticaly scan an compare handwritten documents.
 
 ## If you want to contribute have a look into the contributing guidelines 
 
